@@ -7,6 +7,9 @@ Linux系统下的视频编辑，主要涉及视频的合并、剪切与重编码
 当然，FFmpeg也可以在Windows的命令行下使用，但一般Win用户并不习惯，而对Linux用户，FFmpeg则是非常好用且强大的工具
 
 **视频粗剪**
+
 截取片段
+
 `ffmpeg ` 
+
 ## Windows
